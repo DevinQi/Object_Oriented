@@ -1,0 +1,32 @@
+3
+Salia s 1 -100 1
+Devin D 3 9880 20
+xuyue X 0 1000 0
+AL Devin 0
+ML Salia 0
+MKV Devin 0
+ECH Devin 0
+PAS Devin 0
+HH Devin 0
+RCH Devin 0
+PAC Devin 0
+DWE Devin 0
+CPH Devin 0
+UWP Devin 0
+LHI Devin 0
+BMH Devin 0
+OPT Devin 0
+EV1 Devin 0
+EV2 Devin 0
+EV3 Devin 0
+V1 Devin 0
+PHYS Devin 0
+B1 Devin 0
+CIF Devin 0
+B2 Devin 0
+EIT Devin 0
+ESC Devin 0
+C2 Devin 0
+REV Devin 0
+MC Devin 3
+DC Devin 0
